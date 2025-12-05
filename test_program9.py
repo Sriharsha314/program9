@@ -1,3 +1,5 @@
+from product import product_details
+
 def test_product_details():
     expected_output = (
         "Product Name: Mobile\n"
